@@ -1,7 +1,6 @@
-# Lesson1Assignment
-#### Nagihan Akkuş - .NET - 4A
-##### .NET 8
+# Lesson1Assignment (.NET 8)
+#### Nagihan AkkuÅŸ - .NET - 4A
 
-### Ödevdeki tüm sorular ayrı Branchler altında yapılmıştır. 
-### Branchler arasında geçiş yaparak kontrol edebilirsiniz.
+### Ã–devdeki tÃ¼m sorular ayrÄ± Branchler altÄ±nda yapÄ±lmÄ±ÅŸtÄ±r. 
+### Branchler arasÄ±nda geÃ§iÅŸ yaparak kontrol edebilirsiniz.
 
